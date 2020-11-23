@@ -1,4 +1,8 @@
-# Hi, I'm Joe 👋👨‍💻
+# Hi, I'm Joe 👋 👨‍💻
+
+
+I'm a software engineer who is passionate about making open-source data more accessible, and creating technology that will help people around the world. Some technologies I enjoy working with include React, Angular, API's and Sass. I recently graduated from the nology bootcamp in London 🧑‍🎓 <br />
+My interest in the React ecosystem has led me to be currently searching for React-based roles around the world!
 
 <!--
 **jdmcgrath/jdmcgrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
