@@ -1,8 +1,10 @@
 # Hi, I'm Joe 👋 👨‍💻
 
 
-I'm a Software & Mechanical Engineer who is passionate about making open-source data more accessible, and creating technology that will help people around the world. <br />
-Some technologies I enjoy working with include React, Angular, API's and Sass. I have a First class Mechanical Engineering degree & learned how to write software from the \_nology bootcamp in London🎓
+I'm a Senior Software Engineer with a Mechanical Engineering background who is passionate about making open-source more accessible, and creating technology that will help people around the world. <br />
+Some technologies I enjoy working with include Go, AWS Serverless, NextJS, React, Angular. I have a First class Mechanical Engineering degree & learned how to write software from the \_nology bootcamp in London🎓
+ 
+## <a href="https://github.com/jdmcgrath/jdmcgrath">Check out my work profile 👨🏼‍💼:</a>
 
 ## Find me around the web 🌎: <a href="https://www.linkedin.com/in/joseph-daniel-mcgrath/"><img align="left" height="150" padding="20" margin="20" src="https://raw.githubusercontent.com/jdmcgrath/jdmcgrath/44ee783a22836f0b1b653a725e0ab9c77e93afe6/world.svg"></a>
 - Learning in public on <a href="https://www.twitch.tv/joebi1kenobi">Twitch</a> 📹
@@ -20,15 +22,6 @@ Some technologies I enjoy working with include React, Angular, API's and Sass. I
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 ##
-<details>
-  
-  <summary>:zap: GitHub Stats</summary>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdmcgrath)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
